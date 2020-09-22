@@ -1,5 +1,5 @@
 {
-  "name": "@log4js-node/logstash-http",
+  "name": "@worawutboy/logstash-http",
   "version": "1.0.0",
   "description": "Logstash HTTP Appender for log4js-node",
   "homepage": "https://log4js-node.github.io/log4js-node/",
@@ -17,13 +17,13 @@
   "license": "Apache-2.0",
   "main": "./lib/index.js",
   "types": "./types/index.d.ts",
-  "author": "Gareth Jones <gareth.nomiddlename@gmail.com>",
+  "author": "worawut <voravutboy@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/log4js-node/logstashHTTP.git"
+    "url": "https://github.com/worawutboy/logstashHTTP.git"
   },
   "bugs": {
-    "url": "http://github.com/log4js-node/logstashHTTP/issues"
+    "url": "http://github.com/worawutboy/logstashHTTP/issues"
   },
   "engines": {
     "node": ">=6.0"
